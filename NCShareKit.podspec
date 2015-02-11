@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'NCShareKit'
   s.version      = '0.0.1'
-  s.summary      = 'Categories and macros for convenience.'
+  s.summary      = 'Unify multi share channels.'
   s.homepage     = 'https://github.com/nickcheng/NCShareKit'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'nickcheng' => 'n@nickcheng.com' }
